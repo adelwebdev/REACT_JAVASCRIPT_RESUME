@@ -8,15 +8,11 @@ const OtherSkills = () => {
         <div className="list">
           <ul>
             <li>
-              <i className="fas fa-check-square"></i>Кандидат компьютерных наук
-              (2021)
+              <i className="fas fa-check-square"></i>Кандидат компьютерных
+              наук-2021
             </li>
             <li>
-              <i className="fas fa-check-square"></i>Инженер по статистике
-              (2011)
-            </li>
-            <li>
-              <i className="fas fa-check-square"></i>MBA Финансы (2013)
+              <i className="fas fa-check-square"></i>Инженер по статистике-2011
             </li>
           </ul>
           <ul>
