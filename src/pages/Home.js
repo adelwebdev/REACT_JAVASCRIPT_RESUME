@@ -8,11 +8,11 @@ const Home = () => {
       <div className="homeContent">
         <div className="content">
           <h1>Адель БУАТТА</h1>
-          <h2>Front-End Программист</h2>
+          <h2>"Front-End Pазработчик</h2>
           <h3>
-            React. Redux. TypeScript. 
+            React. Vue. TypeScript.
             <br />
-            Css. Bootstraps. Sacc.
+            CSS. Bootstrap. SASS.
             <br />
             GitHub. SEO.
           </h3>

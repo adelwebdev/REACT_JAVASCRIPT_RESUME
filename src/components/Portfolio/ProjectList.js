@@ -11,7 +11,7 @@ export default class ProjectList extends Component {
       { id: 3, value: "react" },
       { id: 4, value: "php" },
     ],
-    selectedRadio: "javascript",
+    selectedRadio: "css",
   };
 
   handleRadio = (event) => {

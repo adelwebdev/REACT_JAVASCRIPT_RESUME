@@ -45,7 +45,7 @@ export default class Project extends Component {
                     className="button"
                     target="_blank"
                   >
-                    перейти на сайт и исходный код
+                    перейти на исходный код
                   </a>
                 </div>
               </div>
